@@ -52,7 +52,7 @@ movie_recommendation/
 Utilizes the [MovieLens](https://grouplens.org/datasets/movielens/) dataset:
 
 - **movies_small.csv**: Contains movie metadata.
-- **ratings.csv**: Includes user ratings for various movies. ([movie_recommender/Readme.md at master - GitHub](https://github.com/rajaprerak/movie_recommender/blob/master/Readme.md?utm_source=chatgpt.com))
+- **ratings.csv**: Includes user ratings for various movies.
 
 ## 📈 Usage
 
@@ -60,7 +60,7 @@ Run the Jupyter notebooks in sequence to:
 
 1. Explore and preprocess the dataset.
 2. Build and train the recommendation model.
-3. Evaluate and visualize the model's performance. ([Movie-Recommendation-System/main.py at master - GitHub](https://github.com/shinyZu/Movie-Recommendation-System/blob/master/main.py?utm_source=chatgpt.com))
+3. Evaluate and visualize the model's performance.
 
 ## 🤝 Contributing
 
