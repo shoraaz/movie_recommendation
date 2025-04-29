@@ -3,15 +3,14 @@
 
 # 🎬 Movie Recommendation System
 
-A personalized movie recommendation system leveraging collaborative filtering techniques to suggest movies based on user preferences. ([movie-recommendation/ReadME.md at master - GitHub](https://github.com/demirkeseny/movie-recommendation/blob/master/ReadME.md?utm_source=chatgpt.com))
+A personalized movie recommendation system leveraging collaborative filtering techniques to suggest movies based on user preferences. 
 
 ## 🚀 Features
 
 - **User-Based Collaborative Filtering**: Recommends movies by finding similar user preferences.
 - **Data Preprocessing**: Handles missing data and normalizes ratings for accurate predictions.
 - **Scalable Architecture**: Designed to handle large datasets efficiently.
-- **Interactive Notebooks**: Jupyter notebooks for step-by-step analysis and visualization. ([Movie-Recommendation-System/README.md at master - GitHub](https://github.com/Gurupradeep/Movie-Recommendation-System/blob/master/README.md?utm_source=chatgpt.com))
-
+- **Interactive Notebooks**: Jupyter notebooks for step-by-step analysis and visualization.
 ## 🛠️ Installation
 
 1. **Clone the repository**:
